@@ -1,0 +1,53 @@
+/* OPACITY FRAMEWORK */
+
+:root {
+	--transitionTimeS: 0.2s;
+	--transitionTimeM: 0.5s;
+}
+
+.op1 {
+    opacity: 1;
+    transition: opacity var(--transitionTimeS) linear;
+  }
+
+  .op07 {
+	opacity: 0.7;
+    transition: opacity var(--transitionTimeS) linear;
+  }
+
+  .op05 {
+	opacity: 0.5;
+    transition: opacity var(--transitionTimeS) linear;
+  }
+
+  .op02 {
+	opacity: 0.2;
+    transition: opacity var(--transitionTimeS) linear;
+  }
+
+  .op0 {
+    opacity: 0;
+    transition: opacity var(--transitionTimeS) linear;
+  }
+
+  .hop0:hover {
+    opacity: 0;
+  }
+
+  .hop02:hover {
+    opacity: 0.2;
+  }
+
+  .hop05:hover {
+    opacity: 0.5;
+  }
+
+  .hop07:hover {
+    opacity: 0.7;
+  }
+
+  .hop1:hover {
+    opacity: 1;
+  }
+
+
