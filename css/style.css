@@ -38,3 +38,13 @@
 .games-navigation img {
     border-radius: 10px;
 }
+
+.itt {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 60vh;
+    color: white;
+}
