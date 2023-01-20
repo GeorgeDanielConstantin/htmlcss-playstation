@@ -34,3 +34,7 @@
 .ms-n1 {
     margin-left: -0.25rem !important;
 }
+
+.games-navigation img {
+    border-radius: 10px;
+}
