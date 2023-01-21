@@ -62,3 +62,21 @@
 p {
     margin: 0;
 }
+
+/* PLAYSTATION PLUS */
+
+.ps-plus .btn {
+    color: blue;
+    background-color: #d9dadc;
+}
+
+/* PLAYSTATION NOW */
+
+.ps-now {
+    background-color: #161c3b;
+}
+
+.ps-now .btn {
+    background-color: white;
+    color: black;
+}
