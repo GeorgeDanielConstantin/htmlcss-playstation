@@ -27,17 +27,20 @@
     background-repeat: no-repeat;
     background-size: cover;
 
-    height: 60vh;
-    color: white;
+    min-height: 60vh;
 }
 
 .ms-n1 {
     margin-left: -0.25rem !important;
 }
 
+/* GAMES NAVIGATION */
+
 .games-navigation img {
     border-radius: 10px;
 }
+
+/* IT TAKES TWO */
 
 .itt {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
@@ -45,6 +48,17 @@
     background-repeat: no-repeat;
     background-size: cover;
 
-    height: 60vh;
-    color: white;
+    min-height: 60vh;
+}
+
+/* NUOVE USCITE */
+
+.nuove-uscite img {
+    border-radius: 10px;
+}
+
+/* ESPLORA PS4 */
+
+p {
+    margin: 0;
 }
