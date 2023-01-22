@@ -27,11 +27,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 
-    min-height: 60vh;
+    min-height: 65vh;
 }
 
-.ms-n1 {
-    margin-left: -0.25rem !important;
+.ms-n4 {
+    margin-left: -1.5rem !important;
 }
 
 /* GAMES NAVIGATION */
@@ -48,7 +48,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 
-    min-height: 60vh;
+    min-height: 65vh;
 }
 
 /* NUOVE USCITE */
@@ -79,4 +79,27 @@ p {
 .ps-now .btn {
     background-color: white;
     color: black;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #00439c;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer li {
+    list-style: none;
+}
+
+footer img {
+    width: 120px;
+}
+
+footer ul>* {
+    margin: 0.5rem auto;
 }
